@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Checkboxes</string>
+    <string name="checkbox_introduccionpython" />
+    <string name="CheckboxIntroduccionPython">Introduccion a Python</string>
+    <string name="checkbox_powerbi">Power BI - Caso Covid19</string>
+    <string name="checkbox_machine_learning">Machine Learning\n</string>
+</resources>
